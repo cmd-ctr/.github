@@ -1,59 +1,76 @@
 # 🎴 Command Center
 
-**Command Center** is an innovative card game designed for play with both physical and digital cards.  
-The game combines strategic elements inspired by popular titles like **Hearthstone** and **Magic: The Gathering**, introducing unique mechanics for a fresh gameplay experience.
+**Command Center** is an innovative card game designed for both physical and digital play.  
+It combines strategic elements inspired by **Hearthstone** and **Magic: The Gathering**, introducing unique mechanics for a fresh gameplay experience.
 
 ## 🧭 Project Overview
 
-- 🖥️ **Targeted Platforms**: Physical cards, PC, and mobile devices  
-- ⚠️ **Current Status**: Playable, but unfortunately has low dynamics & high entry point  
-- 🧰 **Technologies Used**: Multiple repositories using diverse stacks to fully utilize developers' skills  
+- **Target Platforms**: Physical cards, PC, and mobile devices  
+- **Current Status**: Playable, but currently exhibits low dynamics and a high entry threshold  
+- **Technologies Used**: Multiple repositories employing diverse stacks to fully utilize developers' skills  
 
 ---
 
 ## 🤝 Contribution Opportunities
 
-We're looking for passionate **game dev enthusiasts**.  
-Profit is **not guaranteed**, but the game is aimed for commercialization. Revenue shares will match your role & commitment.
+We're seeking passionate **game development enthusiasts**.  
+While profit is **not guaranteed**, our goal is commercialization, with revenue shares reflecting roles and commitment.
 
-### 🧩 Open Positions
+### 🔒 Closed-Source Contributions
 
-#### 🧠 Management & Technical
+Involve working on private repositories under a **Non-Disclosure Agreement (NDA)**.  
+These contributions require prior consultation and agreement.
+
+### 🌐 Open-Source Contributions
+
+We maintain open-source components within our ecosystem, including:
+
+- **write_mode**: [https://crates.io/crates/write_mode](https://crates.io/crates/write_mode)
+- **sedes**: [https://crates.io/crates/sedes](https://crates.io/crates/sedes)
+
+Contributing to these libraries is a valuable way to support Command Center's development.  
+These contributions do not require prior consultation or licensing agreements.
+
+---
+
+## 🧩 Open Positions
+
+### 🧠 Management & Technical
 
 - 🔥 **Orchestrator (Project Manager)** – *Most Wanted*  
-  📌 Oversees vision, GitHub repos, MRs, issues, and planning.
+  📌 Oversees vision, manages GitHub repositories, merge requests, issues, and development plans.
 
 - 🧾 **Card Engineer**  
-  🛠️ Works with YAML + CLI to define cards.
+  🛠️ Develops and manages card data using YAML and CLI tools.
 
-#### 🌟 Management & Creative
+### 🌟 Management & Creative
 
 - 🔥 **Project Steward** – *Most Wanted*  
-  🎯 Defines long-term goals, strategic direction, and project principles.
+  🎯 Defines and maintains the project's direction, long-term goals, and guiding principles.
 
-#### 💻 Technical Roles
+### 💻 Technical Roles
 
-- 👨‍💻 **Software Engineers** (Any prog. lang.)  
-  ⚙️ Project is tech-agnostic. Pick your tools and dive in!
+- 👨‍💻 **Software Engineers** (Any Programming Language)  
+  ⚙️ Contributes to various aspects of the game. The project is tech-agnostic.
 
 - 🦀 **Rust Engineer** – *Desired*  
-  🧪 Maintains key logic in Rust-based repositories.
+  🧪 Maintains and develops critical components within our Rust repositories.
 
-#### 🎨 Creative Roles
+### 🎨 Creative Roles
 
 - 📐 **Rule Master**  
-  ✍️ Maintains the rule set in LaTeX → PDF format.
+  ✍️ Maintains the game's rule set, primarily using LaTeX to produce PDFs.
 
 - 🖼️ **Artwork Designer**  
-  🎨 Creates or sources legally-safe card artworks.
+  🎨 Creates or legally acquires artwork for the game's cards.
 
-#### 🛠️ Miscellaneous
+### 🛠️ Miscellaneous
 
 - ⚡ **Gapper / Scrum Master** – *Desired*  
-  🧩 Fills team gaps, connects roles, supports any needed area.
+  🧩 Identifies and fills gaps within the team, assisting across various disciplines.
 
 - 🧑‍⚖️ **Law Compliance Specialist** – *Most Wanted*  
-  📚 Maintains licenses (MD, .txt, PDF), ensures legal safety.
+  📚 Manages licensing and ensures legal compliance of project materials, currently documented in Markdown, .txt, and PDF formats.
 
 ---
 
