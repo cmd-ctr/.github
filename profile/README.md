@@ -61,9 +61,6 @@ These contributions do not require prior consultation or licensing agreements.
 - 📐 **Rule Master**  
   ✍️ Maintains the game's rule set, primarily using LaTeX to produce PDFs.
 
-- 🖼️ **Artwork Designer**  
-  🎨 Creates or legally acquires artwork for the game's cards.
-
 ### 🛠️ Miscellaneous
 
 - ⚡ **Gapper / Scrum Master** – *Desired*  
