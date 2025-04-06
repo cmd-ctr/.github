@@ -50,6 +50,9 @@ These contributions do not require prior consultation or licensing agreements.
 
 ### 💻 Technical Roles
 
+- **DevOps** (GH Actions currently, but _bring your tool_)
+  Our CD/CI can benefit from new features, improvements & updates.
+
 - 👨‍💻 **Software Engineers** (Any Programming Language)  
   ⚙️ Contributes to various aspects of the game. The project is tech-agnostic.
 
