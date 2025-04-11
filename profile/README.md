@@ -25,8 +25,8 @@ These contributions require prior consultation and agreement.
 
 We maintain open-source components within our ecosystem, including:
 
-- **write_mode**: [https://crates.io/crates/write_mode](https://crates.io/crates/write_mode)
-- **sedes**: [https://crates.io/crates/sedes](https://crates.io/crates/sedes)
+- **write_mode**: [GitHub](https://github.com/siiir/write_mode), [crates.io](https://crates.io/crates/write_mode)
+- **sedes**: [GitHub](https://github.com/siiir/sedes), [crates.io](https://crates.io/crates/sedes)
 
 Contributing to these libraries is a valuable way to support Command Center's development.  
 These contributions do not require prior consultation or licensing agreements.
